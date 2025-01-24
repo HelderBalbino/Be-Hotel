@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'raleway', sans-serif;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+	font-size: 32 px;
+	color: #ffffff;
+	text-shadow: 5px 5px 4px #000000;
+	text-align: center;
+}
