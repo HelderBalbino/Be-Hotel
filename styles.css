@@ -36,3 +36,17 @@ header nav ul {
 	justify-content: flex-end;
 	align-items: center;
 }
+
+header nav li {
+	margin-right: 60px;
+}
+
+header nav a {
+	color: aqua;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+header nav a:hover {
+	color: #ffffff;
+}
